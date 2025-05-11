@@ -3,7 +3,7 @@ import pefile,hashlib,zlib,sys,os,array
 print('\nFO4GS Unpacker. 07.05.2025\n')
 
 def help():
-    print('Usage :',sys.argv[0], 'installer.exe','[-v] [-e<dir>]')
+    print('Usage :',sys.argv[0], 'installer.exe','[-v] [-x<dir>]')
     print('\t-x<dir> - \teXtract to dir')
     print('\t-v      - \tVerbose on')
     print('\t*Default files list mode.')
