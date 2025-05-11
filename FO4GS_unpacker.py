@@ -1,6 +1,6 @@
 import pefile,hashlib,zlib,sys,os,array
 
-print('\nstas2503 Unpacker. 07.05.2025\n')
+print('\nFO4GS Unpacker. 07.05.2025\n')
 
 def help():
     print('Usage :',sys.argv[0], 'installer.exe','[-v] [-e<dir>]')
