@@ -2,8 +2,9 @@
 Malicius installer unpacker. Unpack FO4GS 063.
 
 <h3>Warning, these are installers with malicious software that can damage your system.<br> Use only at your own risk.</h3> 
-Do not run any installer on working PC.
--
+Do not run any installer on working PC. Specifically renamed it to .dll so that it couldn't be launched by mistake.<br>
+<hr>
+
 
 ```
 >python stas2503_unpacker.py
