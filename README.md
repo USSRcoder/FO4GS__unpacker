@@ -11,16 +11,16 @@ Do not run any installer on working PC. Specifically renamed it to .dll so that 
 
 FO4GS Unpacker. 07.05.2025
 
-Usage : FO4GS_unpacker.py installer.exe [-v] [-e<dir>]
+Usage : FO4GS_unpacker.py installer.exe [-v] [-x<dir>]
         -x<dir> -       eXtract to dir
         -v      -       Verbose on
         *Default files list mode.
 ```
--e key for unpacking:
+-x key for unpacking:
 ```
 python FO4GS_unpacker.py installer.exe -v -eOUTDIR 
 ```
-For the list of contents, use without -e key
+For the list of contents, use without -x key
 ```
 python FO4GS_unpacker.py -v installer.exe 
 ```
