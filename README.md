@@ -18,7 +18,7 @@ Usage : FO4GS_unpacker.py installer.exe [-v] [-x<dir>]
 ```
 -x key for unpacking:
 ```
-python FO4GS_unpacker.py installer.exe -v -eOUTDIR 
+python FO4GS_unpacker.py installer.exe -v -xOUTDIR 
 ```
 For the list of contents, use without -x key
 ```
