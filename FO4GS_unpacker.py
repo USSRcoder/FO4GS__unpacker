@@ -328,7 +328,7 @@ if data:
                             var = resbyname(resname)
                             var = xorfn(K, bytearray(var), 
                                 print_stat, cargs=(resname, fn, str(siz), attr, '', "", "\n")
-                            )[16:]
+                            )
 
                             write_to_fn(fn, var)
 
