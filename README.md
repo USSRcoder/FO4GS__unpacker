@@ -7,7 +7,7 @@ Do not run any installer on working PC. Specifically renamed it to .dll so that 
 
 
 ```
->python stas2503_unpacker.py
+>python FO4GS_unpacker.py
 
 FO4GS Unpacker. 07.05.2025
 
